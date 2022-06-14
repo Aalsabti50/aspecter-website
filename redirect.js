@@ -1,1 +1,0 @@
-window.location.replace("https://discord.com/api/oauth2/authorize?client_id=972497706377412629&redirect_uri=http%3A%2F%2Faspecter.xyz%2F&response_type=code&scope=identify%20relationships.read");
